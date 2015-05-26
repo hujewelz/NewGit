@@ -12,3 +12,4 @@
 [这是超链](http://www.baidu.com)
 
 ![image](https://github.com/hujewelz/NewGit/raw/master/田馥甄.jpg)
+这是普通文字
