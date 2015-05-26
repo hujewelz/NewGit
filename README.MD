@@ -15,7 +15,7 @@ README语法测试
 这是普通文字
 
 ###部分文字高亮  
-my name is 'jewelz'
+my name is `jewelz`
 * 编程语言
 	* 脚本语言
 		* Python
